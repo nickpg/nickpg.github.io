@@ -5,6 +5,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cnyhelp.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
+username: cnyhelp.com
+user_description: Help, information and tips for Central New Yorkers
+user_title: Central New York Help
 
 # Build settings
 markdown: kramdown
