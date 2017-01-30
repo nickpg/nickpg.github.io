@@ -4,12 +4,12 @@ title: "Auto Insurance in Central New York"
 date: 2016-05-08 20:35:48
 image: '/assets/img/'
 description: 'Auto Insurance in Central New York'
-main-class: 'misc'
+main-class: 'insurance'
 color: '#7AAB13'
 tags:
 - insurance
 categories:
-introduction: 'How to use this template'
+introduction: 'Auto Insurance in Central New York'
 ---
 
 # Autо Insurance іn Central Nеw Yоrk state 
