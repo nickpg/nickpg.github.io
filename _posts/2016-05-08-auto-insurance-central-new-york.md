@@ -7,7 +7,6 @@ description: 'Auto Insurance in Central New York'
 main-class: 'misc'
 color: '#7AAB13'
 tags:
-- misc
 - insurance
 categories:
 introduction: 'How to use this template'
