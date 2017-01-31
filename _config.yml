@@ -1,13 +1,13 @@
 # Site settings
-title: Central New York Help
-description: Help for those seeking it in Rome, Utica, Syracuse, New Hartford, Westmoreland, Lee, Taberg, Whitestown, Sylvan Bech and the surrounding area!
+title: Central New York Best
+description: The best help for those seeking it in Rome, Utica, Syracuse, New Hartford, Westmoreland, Lee, Taberg, Whitestown, Sylvan Bech and the surrounding area!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cnyhelp.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://cnybest.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: cnyhelp.com
-user_description: Help, information and tips for Central New Yorkers
-user_title: Central New York Help
+username: cnyhbest.com
+user_description: The best help, information, and tips for Central New Yorkers
+user_title: Central New York Best
 
 # Build settings
 markdown: kramdown
